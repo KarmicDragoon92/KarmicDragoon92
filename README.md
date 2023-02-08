@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarmicDragoon92
-- 👀 I’m interested in cyber security, bug bounty, network automation and just learning more on general!
-- 🌱 I’m currently learning Python and studing for Sec+. I hope to post some fun projects on here that might be cool.
+- 👀 I’m interested in cyber security, bug bounty, network automation and just learning more in general!
+- 🌱 I’m currently learning Python and studing for CCNA, CEH and Linux+. I hope to post some fun projects on here that might be cool.
 - 💞️ 
 - 📫 How to reach me: kaleb.sundstrom.info@gmail.com
 
