@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @KarmicDragoon92
-- 👀 I’m interested in cyber security, bug bounty, network automation and just learning more in general!
-- 🌱 I’m currently learning Python and studing for CCNA, CEH and Linux+. I hope to post some fun projects on here that might be cool.
-- 💞️ 
-- 📫 How to reach me: kaleb.sundstrom.info@gmail.com
+<h1>Hi, I'm Karmic! <br/><a href="https://github.com/KarmicDragoon92">Programmer</a>, <a href="https://www.linkedin.com/in/kalebsundstrom/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Home Lab: SecurityOnion</b>
+  - [Installing SecurityOnion](https://github.com)
+ 
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <b>CompTIA Secuirty+</b>
+
+ - <b>Cisco Certified Network Associate</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!---
 KarmicDragoon92/KarmicDragoon92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
