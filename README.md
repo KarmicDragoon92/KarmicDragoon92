@@ -10,7 +10,17 @@
 
 - <b>CompTIA Secuirty+</b>
 
- - <b>Cisco Certified Network Associate</b>
+- <b>Cisco Certified Network Associate</b>
+
+- <b>Certified Ethical Hacker</b>
+ 
+- <b>CISSP</b>
+ 
+- <b>Red Hat Certified System Admin</b>
+
+- <b>CompTIA Linux+</b>
+
+- <b>CompTIA CySA+</b>
 
 
 <h2> 🤳 Connect with me:</h2>
